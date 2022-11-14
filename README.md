@@ -1,5 +1,7 @@
 # Optum Data Science Competition
 
+This is team H2Coder's repository for the Optum Data Science Competition. In this competition, we were asked to use the publicly avaiable County Health Rankings Dataset to determine the factors which contribute the most to preventable hospitalizations.
+
 A pdf of our final presentation and analysis code is found under the presentation folder. The file presentation/correlation.ipynb includes our team's preprocessing of data, correlation analysis and visualizations.
  
 ### What we used for this Project
