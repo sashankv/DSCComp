@@ -1,6 +1,6 @@
 # Optum Data Science Competition
 
-A pdf of our final presentation and code related to our analysis is found under the presentation folder. The code pertaining to our team's preprocessing of data, correlation Analysis and visualization.
+A pdf of our final presentation and code related to our analysis is found under the presentation folder. correlation.ipynb includes our team's preprocessing of data, correlation analysis and visualizations.
  
 ### What we used for this Project
 **Language**: Python (Jupiter Notebook)  
@@ -8,7 +8,7 @@ A pdf of our final presentation and code related to our analysis is found under 
 **Numpy**: Scientific computing library  
 **Seaborn**: Data visualization library 
 
-The **requirement.txt** contains all the dependencies for our project.
+**presentation/requirements.txt** contains all the dependencies for our project.
 
 **chr_analytic_data2022.csv file**: found in the as our source of data in raw formatting from the publicly available [County Health Rankings Dataset]. It includes a rank list of multiple health and social factors for all US counties. It allows comparison within a state. It is very well formatted for rapid Exploratory Data Analysis [Click here to see the Documentation](https://www.countyhealthrankings.org/sites/default/files/media/document/DataDictionary_2022.pdf)
 
