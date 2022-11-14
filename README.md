@@ -1,6 +1,6 @@
 # Optum Data Science Competition
 
-A pdf of our final presentation and code related to our analysis is found under the presentation folder. correlation.ipynb includes our team's preprocessing of data, correlation analysis and visualizations.
+A pdf of our final presentation and analysis code is found under the presentation folder. The file presentation/correlation.ipynb includes our team's preprocessing of data, correlation analysis and visualizations.
  
 ### What we used for this Project
 **Language**: Python (Jupiter Notebook)  
