@@ -4,7 +4,7 @@ This is team H2Coder's repository for the Optum Data Science Competition. In thi
 
 A pdf of our final presentation and analysis code is found under the presentation folder. The file presentation/correlation.ipynb includes our team's preprocessing of data, correlation analysis and visualizations.
  
-### What we used for this Project
+### Tools Used
 **Language**: Python (Jupiter Notebook)  
 **Pandas**: An open source data analysis and manipulation library  
 **Numpy**: Scientific computing library  
